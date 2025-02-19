@@ -1,0 +1,13 @@
+idno	title	author	authoryearofbirth	authoryearofdeath	subgenre	historical	scifi	lovestory	detective	downloads	type	subjects	language	length
+PG71587	The long arm of Fantômas	Allain, Marcel	1885	1969	detective	no	no	no	yes	45	Text	{'Detective and mystery stories', 'Fantômas (Fictitious character) -- Fiction'}	['en']	102060
+PG59428	The Florentine Dagger: A Novel for Amateur Detectives	Hecht, Ben	1894	1964	detective	no	no	no	yes	38	Text	{'Detective and mystery stories', 'New York (N.Y.) -- Fiction', 'Murder -- Fiction', 'Insanity (Law) -- Fiction'}	['en']	47383
+PG73254	The crooked cross	Dutton, Charles J. (Charles Judson)	1888	1964	detective	no	no	no	yes	1302	Text	{'Detective and mystery stories', 'Murder -- Investigation -- Fiction', 'Bartley, John (Fictitious character) -- Fiction'}	['en']	61259
+PG60944	Ralph 124C 41+: A Romance of the Year 2660	Gernsback, Hugo	1884	1967	scifi	no	yes	no	no	170	Text	{'Science fiction'}	['en']	48028
+PG71716	Drome	Leahy, John Martin	1886	1967	scifi	no	yes	no	no	48	Text	{'Fantasy fiction', 'Science fiction'}	['en']	66300
+PG51854	The Rat Race	Franklin, Jay	1897	1967	scifi	no	yes	no	no	85	Text	{'Science fiction', 'World War, 1939-1945 -- Fiction'}	['en']	75797
+PG18902	Flood Tide	Bassett, Sara Ware	1872	1968	lovestory	no	no	yes	no	47	Text	{'Love stories', 'Cape Cod (Mass.) -- Fiction'}	['en']	67748
+PG67123	Show Boat	Ferber, Edna	1885	1968	lovestory	no	no	yes	no	82	Text	{'Mississippi River -- Fiction', 'Interracial marriage -- Fiction', 'Domestic fiction', 'Love stories', 'Women entertainers -- Fiction', 'Showboats -- Fiction', 'Gamblers -- Fiction'}	['en']	98551
+PG69340	Sard Harker: A novel	Masefield, John	1878	1967	lovestory	no	no	yes	no	62	Text	{'Love stories', 'Adventure stories', 'Imaginary places -- Fiction', 'Central America -- Fiction'}	['en']	102000
+PG34661	The Pioneers	Prichard, Katharine Susannah	1884	1969	historical	yes	no	no	no	77	Text	{'Australia -- Fiction', 'Frontier and pioneer life -- Fiction', 'Historical fiction'}	['en']	78107
+PG5776	100%: the Story of a Patriot	Sinclair, Upton	1878	1968	historical	yes	no	no	no	143	Text	{'Bombings -- Fiction', 'Historical fiction', 'Patriotism -- Fiction', 'American fiction -- 20th century', 'Industrial Workers of the World -- Fiction', 'Communists -- United States -- Fiction', 'Agents provocateurs -- Fiction'}	['en']	87709
+PG62304	Black'erchief Dick	Allingham, Margery	1904	1966	historical	yes	no	no	no	79	Text	{'Adventure stories', 'Great Britain -- History -- Charles II, 1660-1685 -- Fiction', 'Historical fiction', 'Smugglers -- Fiction', 'Mersea Island (England) -- Fiction'}	['en']	63406
